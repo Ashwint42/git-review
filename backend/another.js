@@ -4,5 +4,6 @@ console.log("version 3 from another");
 
 console.log("after first merge");
 
+console.log('for origin');
 
-console.log('for origin')
+console.log("updated code");
