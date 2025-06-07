@@ -7,3 +7,5 @@ console.log("after first merge");
 console.log('for origin');
 
 console.log("updated code");
+
+console.log('new for feature')
